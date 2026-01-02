@@ -52,9 +52,7 @@ Some of the insights explored in this analysis include:
 
 📊 Year Started does impact the number of subscriber you have
 
-🧠 High engagement does not always scale linearly with views
-
-These findings help illustrate how audience interaction behaves across different YouTube videos.
+These findings help illustrate why the audience interact with this different youtubers
 
 # 📉 Visualizations
 
