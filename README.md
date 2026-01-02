@@ -1,14 +1,16 @@
 # Youtube-Data-Analysis
 📊 YouTube Data Analysis
 
-This project performs an end-to-end exploratory data analysis (EDA) on YouTube data to understand video performance, audience engagement, and channel-level trends.
+This project performs an end-to-end exploratory data analysis (EDA) on YouTube data to understand channel-level trends and why they have so many subscribers.
 
-The analysis covers data cleaning, feature exploration, visualization, and insight generation using Python and popular data analysis libraries.
 
+The analysis covers feature exploration, visualization, and insight generation using Python and popular data analysis libraries.
+
+The project was originally made in July of 2025
 
 # In this project, I:
 
-📥 Worked with raw YouTube datasets containing video and channel statistics
+📥 Worked with a YouTube dataset containing video and channel statistics from the Top Youtubers
 
 📊 Analyzed relationships between these metrics
 
